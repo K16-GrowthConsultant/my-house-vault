@@ -3,6 +3,6 @@
 window.FV_LICENSE = {
   enforce: true,
   /*PUBLIC_KEY_START*/ publicKey: {"kty":"EC","crv":"P-256","x":"A2ukn1ddU6li_DKCRcRd_OEt4fgvXoP8RWlFR8GyKu4","y":"YjlkWHFAHdraFAjYV335X4bzX-iKq8-Jxf5H4ASyHa8"}, /*PUBLIC_KEY_END*/
-  /*BUY_URL_START*/ buyUrl: '', /*BUY_URL_END*/
+  /*BUY_URL_START*/ buyUrl: "https://wa.me/919724049566?text=Hi%2C%20I%20want%20Ghar%20ka%20Vault", /*BUY_URL_END*/
   supportText: ''
 };
