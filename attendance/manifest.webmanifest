@@ -1,0 +1,13 @@
+{
+  "name": "Office Attendance",
+  "short_name": "Attendance",
+  "description": "Employee punch in / punch out and monthly attendance register.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#1d4f91",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
